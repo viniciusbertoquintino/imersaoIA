@@ -10,11 +10,6 @@
 
 Nesta aula utilizei o ChatGPT para fazer dois jogos, um jogo de adivinhação de palavras e um jogo de adivinhação de filmes, acredito que por ter fornecido um prompt não tão detalhado, o primeiro jogo foi um desastre, apenas após destacar as letras que haviam na palavra, que o ChatGPT conseguiu adivinhar, já no segundo jogo, após fazer perguntas mais específicas de acordo com o prompt fornecido, o ChatGPT conseguiu adivinhar em qual filme eu estava pensando!
 
-### Resultados:
-
-![image](https://github.com/viniciusbertoquintino/imersao_IA/assets/1.png)
-![image](https://github.com/viniciusbertoquintino/imersao_IA/assets/2.png)
-
 ## 🤖 Aula 02 | GPT no seu Trabalho: Fluxo e Dados
 
 Após conhecer as ferramentas que iriamos utilizar, foi dado início a descoberta, visualizando o potencial do ChatGPT para arquivos mais complexos e o aplicando em planilhas, JSON e CSV. Conhecimento que foi necessário para concluir os desafios que foram propostos no material da própria aula.
@@ -133,5 +128,5 @@ Mesmo utilizando os próprios atalhos fornecidos no site PDF.co, o campo de Even
 
 ## 👨🏾‍💻 Autor
 
-| [<img src="https://user-images.githubusercontent.com/102706324/228234163-a0616b0f-c2d2-48d8-8fc6-ce4e8b2cb17c.jpeg" width=115><br><sub>Yann Martins de Sousa</sub>](https://github.com/YannMartins) |  
+| [<img src="https://avatars.githubusercontent.com/u/82630642?v=4" width=115><br><sub>Vinícius Berto Quintino</sub>](https://github.com/viniciusbertoquintino) |  
 | :---: |
