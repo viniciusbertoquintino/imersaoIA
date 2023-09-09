@@ -126,7 +126,7 @@ Mesmo utilizando os próprios atalhos fornecidos no site PDF.co, o campo de Even
   <img src="https://github.com/YannMartins/imersaoIA/assets/102706324/f2e7b0f9-fe9c-4e82-bcec-213651505132">
 </p>
 
-## 👨🏾‍💻 Autor
+## 👨🏾‍💻 Eu
 
 | [<img src="https://avatars.githubusercontent.com/u/82630642?v=4" width=115><br><sub>Vinícius Berto Quintino</sub>](https://github.com/viniciusbertoquintino) |  
 | :---: |
