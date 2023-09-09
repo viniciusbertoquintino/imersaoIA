@@ -2,8 +2,6 @@
   <h1 align="center">Imersão IA</h1>
 </p>
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
 ## 🤿 Novamente participando de uma imersão da Alura! 
 
 *Agora mergulhando em Inteligência Artificial aplicada na [`Imersão IA`](https://www.alura.com.br/imersao-ia) da [`Alura`](https://www.alura.com.br/). Explorando ferramentas como o ChatGPT e o Bing.AI, que podem vir a me ajudar em atividades do dia a dia, aprendendo sobre o impacto que essas tecnologias vem trazendo ao mundo e descobrindo como aplicá-las de forma relevante.*
