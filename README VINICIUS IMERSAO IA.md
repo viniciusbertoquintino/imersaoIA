@@ -12,8 +12,8 @@ Nesta aula utilizei o ChatGPT para fazer dois jogos, um jogo de adivinhação de
 
 ### Resultados:
 
-![image](https://github.com/YannMartins/imersaoIA/assets/102706324/19766e93-d762-4802-974b-d0e46ed556fe)
-![image](https://github.com/YannMartins/imersaoIA/assets/102706324/b0a906fc-7942-4053-9bf0-a29030669545)
+![image](https://github.com/viniciusbertoquintino/imersao_IA/assets/1.png)
+![image](https://github.com/viniciusbertoquintino/imersao_IA/assets/2.png)
 
 ## 🤖 Aula 02 | GPT no seu Trabalho: Fluxo e Dados
 
